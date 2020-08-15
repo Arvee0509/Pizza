@@ -1,0 +1,6 @@
+echo "# Pizza" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Arvee0509/Pizza.git
+git push -u origin master
